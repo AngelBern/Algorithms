@@ -1,0 +1,5 @@
+-1 -1
+1
+dsmall.txt
+ttt.txt
+out.txt
