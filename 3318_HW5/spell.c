@@ -1,4 +1,4 @@
-//author Angel Delgado
+//author 
 //CSE 3318 Fall 2020
 //
 //code campiled with the following command on virtual machine
